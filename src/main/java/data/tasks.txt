@@ -1,0 +1,4 @@
+1. [T][X] do smth
+2. [E][ ] do stuff (from: 2pm to: 7pm)
+3. [D][ ] great things (by: 7pm)
+4. [T][ ] do smth
