@@ -1,4 +1,4 @@
-# Alcazar project template
+# Alcazar project
 
 This is Alcazar, your own personalised Chatbot ready to do your bidding.
 
